@@ -2,10 +2,10 @@
 
 Hello everyone! Welcome to our CIS 519 Final Project. Here you can find our coding contents.
 
-Team members:
+## Team members:
 
-Fenglong Zhao 
-Lu Zhang
+Fenglong Zhao, 
+Lu Zhang,
 Anqi Lin
 
 Each of us has a separate coding file and we have an integrated file for convenience.

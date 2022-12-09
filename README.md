@@ -10,7 +10,7 @@ Anqi Lin
 
 ## Instructions:
 
-Each of us has a separate coding file and we have an integrated file for convenience.
+Each of us has a separate coding file uploaded to the repository corresponding to contents shown below.
 
 Fenglong Zhao: Data Preprocessing, Logistic Regression, KNN, xGBoost, Ensemble Learning
 
